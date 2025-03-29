@@ -156,7 +156,7 @@ const {  state, saveCreds } =await useMultiFileAuthState(`./session`)
         return (withoutContact ? '' : v.name) || v.subject || v.verifiedName || PhoneNumber('+' + jid.replace('@s.whatsapp.net', '')).getNumber('international')
     }
     
-    global.idch = "120363405397839812@newsletter"
+    global.idch = "120363226177505495@newsletter"
 //global.idch2 = "120363380926092343@newsletter"
     Avishka.public = true
 
