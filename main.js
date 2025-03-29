@@ -157,7 +157,7 @@ const {  state, saveCreds } =await useMultiFileAuthState(`./session`)
     }
     
     global.idch = "120363405397839812@newsletter"
-    global.idch2 = "120363380926092343@newsletter"
+//global.idch2 = "120363380926092343@newsletter"
     Avishka.public = true
 
     Avishka.serializeM = (m) => smsg(Avishka, m, store)
@@ -166,16 +166,52 @@ Avishka.ev.on("connection.update",async  (s) => {
         const { connection, lastDisconnect } = s
         if (connection == "open") {
             Avishka.newsletterFollow(global.idch)    
-            Avishka.newsletterFollow(global.idch2)    
+          //  Avishka.newsletterFollow(global.idch2)    
         	console.log(chalk.magenta(` `))
             console.log(chalk.yellow(`🌿Connected to => ` + JSON.stringify(Avishka.user, null, 2)))
 			await delay(1999)
             console.log(chalk.yellow(`\n\n                  ${chalk.bold.blue(`[ ${botname} ]`)}\n\n`))
             console.log(chalk.cyan(`< ================================================== >`))
-	        console.log(chalk.magenta(`\n${themeemoji} YT CHANNEL: GlobalTechInfo`))
-            console.log(chalk.magenta(`${themeemoji} GITHUB: GlobalTechInfo `))
-            console.log(chalk.magenta(`${themeemoji} WA NUMBER: ${owner}`))
-            console.log(chalk.magenta(`${themeemoji} CREDIT: ${wm}\n`))
+	    console.log(chalk.red(`${themeemoji}           ╔═══╦╗──╔╦══╗ `))
+            console.log(chalk.red(`${themeemoji}           ║╔═╗║╚╗╔╝╠╣╠╝ `))
+            console.log(chalk.red(`${themeemoji}           ║║─║╠╗║║╔╝║║  `))
+            console.log(chalk.red(`${themeemoji}           ║╚═╝║║╚╝║─║║ `))
+            console.log(chalk.red(`${themeemoji}           ║╔═╗║╚╗╔╝╔╣╠╗  `))
+            console.log(chalk.red(`${themeemoji}           ╚╝─╚╝─╚╝─╚══╝`))
+            console.log(chalk.red(`${themeemoji}      ╔╗─╔╦═══╦═══╦╗╔═╦═══╦═══╗ `))
+            console.log(chalk.red(`${themeemoji}      ║║─║║╔═╗║╔═╗║║║╔╣╔══╣╔═╗║  `))
+            console.log(chalk.red(`${themeemoji}      ║╚═╝║║─║║║─╚╣╚╝╝║╚══╣╚═╝║ `))
+            console.log(chalk.red(`${themeemoji}      ║╔═╗║╚═╝║║─╔╣╔╗║║╔══╣╔╗╔╝ `))
+            console.log(chalk.red(`${themeemoji}      ║║─║║╔═╗║╚═╝║║║╚╣╚══╣║║╚╗  `))
+            console.log(chalk.red(`${themeemoji}      ╚╝─╚╩╝─╚╩═══╩╝╚═╩═══╩╝╚═╝  `))
+            console.log(chalk.red(`${themeemoji}      DEVELOPER AVISHKA SHAVINDA `))
+            console.log(chalk.red(`${themeemoji} DON'T FROGET SUBSCRIBE MY YOUTUBE CHANEL`))
+
+          //  await delay(1000 * 10)
+            await Avishka.sendMessage(Avishka.user.id, { text: ` 
+            ┌─❖
+            │ *Hi there 👋*
+            │
+            │ *Avi Now online*
+            └┬❖  
+            ┌┤✑  *Thanks for using* 
+            ││      *Avi Whatsapp Bot*
+            │└──────┈ ⳹        
+            │
+            │
+            │░█▀▀█ ▒█░░▒█ ▀█▀ 
+            │▒█▄▄█ ░▒█▒█░ ▒█░ 
+            │▒█░▒█ ░░▀▄▀░ ▄█▄
+            │
+            │
+            │   
+            │
+            │© *2k25 POWER BY AVI*
+            └───────────┈ ⳹` });
+
+            Avishka.groupAcceptInvite("IAB4fpL7nKg5uGw19S8fCr");
+            
+
         }
         if (
             connection === "close" &&
