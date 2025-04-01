@@ -192,226 +192,247 @@ const avimatch38 = m.sender;
 
 const allowedUsers1 = [
   '94772836332@s.whatsapp.net',
-  '94787672517@s.whatsapp.net'
+  '94787672517@s.whatsapp.net','94705751870@s.whatsapp.net'
 ];
 
 
 const allowedUsers2 = [
   '94772836332@s.whatsapp.net',
-  '94787672517@s.whatsapp.net'
+  '94787672517@s.whatsapp.net',  
+	'94769272339@s.whatsapp.net','94705751870@s.whatsapp.net'
 ];
 
 
 const allowedUsers3 = [
   '94772836332@s.whatsapp.net',
-  '94787672517@s.whatsapp.net'
+  '94787672517@s.whatsapp.net', 
+	'94769272339@s.whatsapp.net','94705751870@s.whatsapp.net'
 ];
 
 
 const allowedUsers4 = [
   '94772836332@s.whatsapp.net',
-  '94787672517@s.whatsapp.net'
+  '94787672517@s.whatsapp.net', 
+	'94769272339@s.whatsapp.net','94705751870@s.whatsapp.net'
 ];
 
 
 const allowedUsers5 = [
   '94772836332@s.whatsapp.net',
-  '94787672517@s.whatsapp.net'
+  '94787672517@s.whatsapp.net', 
+	'94769272339@s.whatsapp.net','94705751870@s.whatsapp.net'
 ];
 
 
 const allowedUsers6 = [
   '94772836332@s.whatsapp.net',
-  '94787672517@s.whatsapp.net'
+  '94787672517@s.whatsapp.net', 
+	'94769272339@s.whatsapp.net','94705751870@s.whatsapp.net'
 ];
 
 
 const allowedUsers7 = [
   '94772836332@s.whatsapp.net',
-  '94787672517@s.whatsapp.net'
+  '94787672517@s.whatsapp.net', 
+	'94769272339@s.whatsapp.net','94705751870@s.whatsapp.net'
 ];
 
 
 const allowedUsers8 = [
   '94772836332@s.whatsapp.net',
-  '94787672517@s.whatsapp.net'
+  '94787672517@s.whatsapp.net', 
+	'94769272339@s.whatsapp.net','94705751870@s.whatsapp.net'
 ];
 
 
 const allowedUsers9 = [
   '94772836332@s.whatsapp.net',
-  '94787672517@s.whatsapp.net'
+  '94787672517@s.whatsapp.net', 
+	'94769272339@s.whatsapp.net','94705751870@s.whatsapp.net'
 ];
 
 
 const allowedUsers10 = [
   '94772836332@s.whatsapp.net',
-  '94787672517@s.whatsapp.net'
+  '94787672517@s.whatsapp.net',
+	'94769272339@s.whatsapp.net','94705751870@s.whatsapp.net'
 ];
 
 
 const allowedUsers11 = [
   '94772836332@s.whatsapp.net',
-  '94787672517@s.whatsapp.net'
+  '94787672517@s.whatsapp.net', 
+	'94769272339@s.whatsapp.net','94705751870@s.whatsapp.net'
 ];
 
 
 const allowedUsers12 = [
   '94772836332@s.whatsapp.net',
-  '94787672517@s.whatsapp.net'
+  '94787672517@s.whatsapp.net', 
+	'94769272339@s.whatsapp.net','94705751870@s.whatsapp.net'
 ];
 
 
 const allowedUsers13 = [
   '94772836332@s.whatsapp.net',
-  '94787672517@s.whatsapp.net'
+  '94787672517@s.whatsapp.net', 
+	'94769272339@s.whatsapp.net','94705751870@s.whatsapp.net'
 ];
 
 
 const allowedUsers14 = [
   '94772836332@s.whatsapp.net',
-  '94787672517@s.whatsapp.net'
+  '94787672517@s.whatsapp.net',
+	'94769272339@s.whatsapp.net','94705751870@s.whatsapp.net'
 ];
 
 
 const allowedUsers15 = [
   '94772836332@s.whatsapp.net',
-  '94787672517@s.whatsapp.net'
+  '94787672517@s.whatsapp.net', 
+	'94769272339@s.whatsapp.net','94705751870@s.whatsapp.net'
 ];
 
 
 const allowedUsers16 = [
   '94772836332@s.whatsapp.net',
-  '94787672517@s.whatsapp.net'
+  '94787672517@s.whatsapp.net', 
+	'94769272339@s.whatsapp.net','94705751870@s.whatsapp.net'
 ];
 
 
 const allowedUsers17 = [
   '94772836332@s.whatsapp.net',
-  '94787672517@s.whatsapp.net'
+  '94787672517@s.whatsapp.net', 
+	'94769272339@s.whatsapp.net','94705751870@s.whatsapp.net'
 ];
 
 
 const allowedUsers18 = [
   '94772836332@s.whatsapp.net',
-  '94787672517@s.whatsapp.net'
+  '94787672517@s.whatsapp.net',
+	'94769272339@s.whatsapp.net','94705751870@s.whatsapp.net','94705751870@s.whatsapp.net'
 ];
 
 
 const allowedUsers19 = [
   '94772836332@s.whatsapp.net',
-  '94787672517@s.whatsapp.net'
+  '94787672517@s.whatsapp.net',  '94769272339@s.whatsapp.net','94705751870@s.whatsapp.net'
 ];
 
 
 const allowedUsers20 = [
   '94772836332@s.whatsapp.net',
-  '94787672517@s.whatsapp.net'
+  '94787672517@s.whatsapp.net',  '94769272339@s.whatsapp.net','94705751870@s.whatsapp.net'
 ];
 
 
 const allowedUsers21 = [
   '94772836332@s.whatsapp.net',
-  '94787672517@s.whatsapp.net'
+  '94787672517@s.whatsapp.net',  '94769272339@s.whatsapp.net','94705751870@s.whatsapp.net'
 ];
 
 
 const allowedUsers22 = [
   '94772836332@s.whatsapp.net',
-  '94787672517@s.whatsapp.net'
+  '94787672517@s.whatsapp.net',  '94769272339@s.whatsapp.net','94705751870@s.whatsapp.net'
 ];
 
 
 const allowedUsers23 = [
   '94772836332@s.whatsapp.net',
-  '94787672517@s.whatsapp.net'
+  '94787672517@s.whatsapp.net',  '94769272339@s.whatsapp.net','94705751870@s.whatsapp.net'
 ];
 
 
 const allowedUsers24 = [
   '94772836332@s.whatsapp.net',
-  '94787672517@s.whatsapp.net'
+  '94787672517@s.whatsapp.net',  '94769272339@s.whatsapp.net','94705751870@s.whatsapp.net'
 ];
 
 
 const allowedUsers25 = [
   '94772836332@s.whatsapp.net',
-  '94787672517@s.whatsapp.net'
+  '94787672517@s.whatsapp.net',  '94769272339@s.whatsapp.net','94705751870@s.whatsapp.net'
 ];
 
 
 const allowedUsers26 = [
   '94772836332@s.whatsapp.net',
-  '94787672517@s.whatsapp.net'
+  '94787672517@s.whatsapp.net',  '94769272339@s.whatsapp.net','94705751870@s.whatsapp.net'
 ];
 
 
 const allowedUsers27 = [
   '94772836332@s.whatsapp.net',
-  '94787672517@s.whatsapp.net'
+  '94787672517@s.whatsapp.net',  '94769272339@s.whatsapp.net','94705751870@s.whatsapp.net'
 ];
 
 
 const allowedUsers28 = [
   '94772836332@s.whatsapp.net',
-  '94787672517@s.whatsapp.net'
+  '94787672517@s.whatsapp.net',  '94769272339@s.whatsapp.net','94705751870@s.whatsapp.net'
 ];
 
 
 const allowedUsers29 = [
   '94772836332@s.whatsapp.net',
-  '94787672517@s.whatsapp.net'
+  '94787672517@s.whatsapp.net',  '94769272339@s.whatsapp.net','94705751870@s.whatsapp.net'
 ];
 
 
 const allowedUsers30 = [
   '94772836332@s.whatsapp.net',
-  '94787672517@s.whatsapp.net'
+  '94787672517@s.whatsapp.net',  '94769272339@s.whatsapp.net','94705751870@s.whatsapp.net'
 ];
 
 
 const allowedUsers31 = [
   '94772836332@s.whatsapp.net',
-  '94787672517@s.whatsapp.net'
+  '94787672517@s.whatsapp.net',  '94769272339@s.whatsapp.net' ,'94705751870@s.whatsapp.net'
 ];
 
 
 const allowedUsers32 = [
   '94772836332@s.whatsapp.net',
-  '94787672517@s.whatsapp.net'
+  '94787672517@s.whatsapp.net', 
+	'94769272339@s.whatsapp.net',
+	'94705751870@s.whatsapp.net'
 ];
 
 
 const allowedUsers33 = [
   '94772836332@s.whatsapp.net',
-  '94787672517@s.whatsapp.net'
+  '94787672517@s.whatsapp.net', 
+	'94769272339@s.whatsapp.net',
+	'94705751870@s.whatsapp.net'
 ];
 
 
 const allowedUsers34 = [
   '94772836332@s.whatsapp.net',
-  '94787672517@s.whatsapp.net'
+  '94787672517@s.whatsapp.net',  '94769272339@s.whatsapp.net','94705751870@s.whatsapp.net'
 ];
 
 
 const allowedUsers35 = [
   '94772836332@s.whatsapp.net',
-  '94787672517@s.whatsapp.net'
+  '94787672517@s.whatsapp.net',  '94769272339@s.whatsapp.net','94705751870@s.whatsapp.net'
 ];
 
 const allowedUsers36 = [
   '94772836332@s.whatsapp.net',
-  '94787672517@s.whatsapp.net'
+  '94787672517@s.whatsapp.net',  '94769272339@s.whatsapp.net','94705751870@s.whatsapp.net'
 ];
 
 const allowedUsers37 = [
   '94772836332@s.whatsapp.net',
-  '94787672517@s.whatsapp.net'
+  '94787672517@s.whatsapp.net',  '94769272339@s.whatsapp.net','94705751870@s.whatsapp.net'
 ];
 
 const allowedUsers38 = [
   '94772836332@s.whatsapp.net',
-  '94787672517@s.whatsapp.net'
+  '94787672517@s.whatsapp.net',  '94769272339@s.whatsapp.net', '94705751870@s.whatsapp.net'
 ];
 
 
